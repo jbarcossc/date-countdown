@@ -112,24 +112,3 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 #submitButton:hover {
     background-color: rgba(177, 177, 228, 0.2);
 }
-/*
-#submitButton {
-    margin: 0;
-    width: 20vw;
-    border: none;
-    background-color: rgba(18, 26, 48, 0.5);
-    text-align: center;
-    font-size: 1rem;
-    font-family: 'Poppins', sans-serif;
-    font-weight: bold;
-    color: rgba(255, 255, 255, 0.8);
-    height: 3rem;
-    align-items: center;
-    cursor: pointer;
-    user-select: none;
-}
-
-#submitButton:hover {
-    background-color: rgba(55, 68, 104, 0.5);
-}
-*/
