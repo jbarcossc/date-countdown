@@ -1,7 +1,6 @@
 var objective = "25 Dec 2021";
 var UTC = new Date();
 UTC = - (UTC.getTimezoneOffset() / 60);
-console.log(UTC);
 const remDays = document.getElementById("days");
 const remHours = document.getElementById("hours");
 const remMins = document.getElementById("mins");
